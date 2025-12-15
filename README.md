@@ -12,4 +12,4 @@ Beta-testy na razię są zamknięte możesz się zgłosić do @BugsGame aby doł
 Jeśli chcesz nas wspierać programówjąc razem z nami możesz skorzystać z repo na moim profilu które tłumaczy wymagania itp.
 
 ## Uwaga!
-ProtonOS jest niestabilny oraz może zniszczyć sprzęt niezaleca się insalowania na prawdziwy komputer.
+ProtonOS jest niestabilny oraz może zniszczyć sprzęt nie zaleca się instalowania na prawdziwy komputer.
