@@ -49,7 +49,7 @@ disk_error:
     int 0x10
     jmp .err
 
-boot_msg db "NeutronOS booting...",13,10,0
+boot_msg db "ProtonOS booting...",13,10,0
 err_msg  db "Disk error! Kernel not found.",0
 
 times 510-($-$$) db 0
